@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Aditya Kushwaha  
+## Front-End Developer | Full-Stack Learner | Automation Enthusiast
 
-<!--
-**AdityaKushwaha404/AdityaKushwaha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **About Me**  
+I’m currently pursuing a B.Tech in **Information Technology** at Harcourt Butler Technical University (HBTU), Kanpur. My CGPA is **7.9 overall**, with **8.16** in my last semester.  
+As a passionate developer, I’ve built frontend clones of Netflix, Spotify, Amazon, and currently transitioning into backend development.
 
-Here are some ideas to get you started:
+🔹 **What I Do**  
+- Front-End: HTML, CSS, JavaScript, React  
+- Learning Backend: Node.js / Express / REST APIs  
+- Automation & Workflows: Using n8n, Telegram bots, Google Sheets, Gmail for end-to-end solutions  
+- Projects: Habit tracker (light-mode UI with palette `#eaebed`, `#006989`, `#a3bac3`, `#007090`, `#01a7c2`), SaaS app “Simplix” (PDF summariser)  
+- Community & Hackathons: Designed UI for “Team X” in our college hackathon  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Highlighted Projects**  
+- 📦 **Simplix** – SaaS app to summarise PDFs into Instagram-style slides  
+- ✅ Productivity, Simplified – Smart To-Do list app using React with persistent storage, theme toggling & responsive design  
+- 🧼 Campus Laundry Platform – Building a platform to digitise washing & ironing requests at HBTU  
+- 🔧 Automation Engine – Telegram + Google Sheets + Gmail workflow using n8n to collect, summarise feedback and alert on low scores  
+
+🔹 **Skills & Tools**  
+| Front-End        | Backend (Learning) | Automation           |
+|------------------|--------------------|----------------------|
+| HTML, CSS, JS    | Node.js, Express   | n8n, Telegram API    |
+| React            | REST APIs, DB      | Google Sheets, Gmail |
+
+🔹 **Connect With Me**  
+- GitHub: [@AdityaKushwaha404](https://github.com/AdityaKushwaha404)  
+- LinkedIn: *(Add your LinkedIn URL here)*  
+- Portfolio / Projects: *(Add link if you have)*  
+
+📫 I’m open to collaborate on full-stack, automation or open-source projects. Let’s build something amazing together!  

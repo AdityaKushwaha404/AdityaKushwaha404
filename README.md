@@ -26,7 +26,7 @@ As a passionate developer, I’ve built frontend clones of Netflix, Spotify, Ama
 
 🔹 **Connect With Me**  
 - GitHub: [@AdityaKushwaha404](https://github.com/AdityaKushwaha404)  
-- LinkedIn: *(Add your LinkedIn URL here)*  
-- Portfolio / Projects: *(Add link if you have)*  
+- LinkedIn: [](https://www.linkedin.com/in/adityakushwaha1503/)
+- Portfolio : [](https://aditya-kushwaha.vercel.app/)  
 
 📫 I’m open to collaborate on full-stack, automation or open-source projects. Let’s build something amazing together!  

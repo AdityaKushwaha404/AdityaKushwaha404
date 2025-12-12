@@ -20,11 +20,12 @@
   />
 </p>
 
+
 <!-- GLASS HERO IMAGE -->
 <p align="center">
   <img 
     width="850"
-    src="[https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/banner.png](https://pin.it/5ni79oJOc)"
+    src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/banner.png"
     style="
       border-radius: 22px;
       backdrop-filter: blur(14px);
@@ -36,6 +37,7 @@
     "
   />
 </p>
+
 
 About Me
 <div align="center"> <div style=" max-width: 850px; padding: 25px; background: rgba(255,255,255,0.10); border-radius: 18px; backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.15); "> Aspiring full-stack developer skilled in building scalable, secure, and user-centered web applications. Strong expertise in React.js, Next.js, Tailwind CSS, and modern UI/UX principles, focused on delivering clean, responsive, and accessible interfaces aligned with WCAG and usability best practices. Experienced in backend development using Node.js, Express.js, FastAPI, and database systems, with a solid understanding of object-oriented design, software development practices, and cloud integrations.

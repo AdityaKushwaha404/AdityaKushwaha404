@@ -7,14 +7,7 @@
   Hi, I’m Aditya Kushwaha
 </h1>
 
-<!-- SUBTITLE -->
-<p align="center" style="
-  font-size: 15px;
-  color: #444;
-  margin-top: -10px;
-">
-  Aspiring Full-Stack Engineer crafting backends and elegant frontends
-</p>
+
 
 <br/>
 
@@ -31,7 +24,7 @@
 <p align="center">
   <img 
     width="850"
-    src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/hero-minimal.png"
+    src="[https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/hero-minimal.png](https://pin.it/5ni79oJOc)"
     style="
       border-radius: 22px;
       backdrop-filter: blur(14px);

@@ -29,116 +29,47 @@
 
 ## 👤 About Me
 
-<div align="center">
-  <div style="
-    max-width:850px;
-    padding:24px;
-    background:rgba(255,255,255,0.08);
-    border-radius:18px;
-    border:1px solid rgba(255,255,255,0.15);
-  ">
-    <p>
-      Aspiring full-stack developer building scalable, secure, and user-centered web applications.
-      Strong expertise in React.js, Next.js, Tailwind CSS, and modern UI and UX principles,
-      focused on clean, responsive, and accessible interfaces aligned with WCAG best practices.
-    </p>
-    <p>
-      Experienced in backend development using Node.js, Express.js, FastAPI, and modern databases,
-      with hands-on exposure to cloud integrations and production-ready workflows.
-    </p>
-    <p>
-      Currently pursuing B.Tech in Information Technology at Harcourt Butler Technical University, Kanpur.
-    </p>
-  </div>
-</div>
+Aspiring full-stack developer building scalable, secure, and user-centered web applications. Strong expertise in React.js, Next.js, Tailwind CSS, and modern UI and UX principles, focused on clean, responsive, and accessible interfaces aligned with WCAG best practices.
+
+Experienced in backend development using Node.js, Express.js, FastAPI, and modern databases, with hands-on exposure to cloud integrations and production-ready workflows.
+
+Currently pursuing **B.Tech in Information Technology** at **Harcourt Butler Technical University, Kanpur**.
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="center">Languages • Frameworks • Databases</p>
+**Languages, Frameworks, and Databases**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="55" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="55" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="55" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" height="55" />
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="42" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" height="42" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### AgriChain – Blockchain-based Agricultural Supply Chain Platform
 
-<div style="
-  width:90%;
-  max-width:850px;
-  padding:22px;
-  margin:16px 0;
-  background:rgba(255,255,255,0.08);
-  border-radius:18px;
-  border:1px solid rgba(255,255,255,0.15);
-">
-  <strong>AgriChain – Blockchain-based Agricultural Supply Chain Platform</strong>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,tailwind" height="40" />
-  </p>
-  <p>
-    Decentralized supply chain system with blockchain-powered product traceability,
-    QR-based verification, secure authentication, Razorpay payments,
-    and scalable FastAPI lifecycle APIs.
-  </p>
-</div>
-
-<div style="
-  width:90%;
-  max-width:850px;
-  padding:22px;
-  margin:16px 0;
-  background:rgba(255,255,255,0.08);
-  border-radius:18px;
-  border:1px solid rgba(255,255,255,0.15);
-">
-  <strong>Rabbit – Digital Marketplace Web App</strong>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" height="40" />
-  </p>
-  <p>
-    Built secure REST APIs for product, cart, and order workflows using Node.js,
-    Express.js, and MongoDB, paired with a responsive and UX-focused React frontend.
-  </p>
-</div>
-
-</div>
+Decentralized supply chain system with blockchain-powered product traceability, QR-based verification, secure authentication, Razorpay payments, and scalable lifecycle APIs built using FastAPI. Designed with a strong focus on reliability, transparency, and usability.
 
 ---
 
-## 🏆 Achievements
+### Rabbit – Digital Marketplace Web App
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackWithUttarPradesh-1st_Place-006989?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIH_Internal_Hackathon-Winner-006989?style=for-the-badge" />
-</p>
+Built secure REST APIs for product, cart, and order workflows using Node.js, Express.js, and MongoDB, paired with a responsive and UX-focused React frontend optimized for real-world usage.
 
-<p align="center">
-  Winner of major engineering hackathons for strong execution, system design, and engineering depth.
-</p>
+---
+
 
 ---
 

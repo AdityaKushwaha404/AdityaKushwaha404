@@ -24,7 +24,7 @@
 <p align="center">
   <img 
     width="850"
-    src="[https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/hero-minimal.png](https://pin.it/5ni79oJOc)"
+    src="[https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/banner.png](https://pin.it/5ni79oJOc)"
     style="
       border-radius: 22px;
       backdrop-filter: blur(14px);

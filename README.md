@@ -25,7 +25,7 @@
 <p align="center">
   <img 
     width="850"
-    src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/bannerr.png"
+    src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/Bannerr.png"
     style="
       border-radius: 22px;
       backdrop-filter: blur(14px);

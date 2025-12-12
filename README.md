@@ -1,5 +1,49 @@
-Hi, I’m Aditya Kushwaha
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2600&pause=900&color=006989&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;Focused+on+Scalable+and+Secure+Applications" /> </p> <p align="center"> <img width="820" style="border-radius: 22px; backdrop-filter: blur(12px); opacity: 0.92;" src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/hero-minimal.png" /> </p>
+<!-- NAME -->
+<h1 align="center" style="
+  font-size: 46px;
+  font-weight: 700;
+  margin-bottom: 4px;
+">
+  Hi, I’m Aditya Kushwaha
+</h1>
+
+<!-- SUBTITLE -->
+<p align="center" style="
+  font-size: 20px;
+  color: #444;
+  margin-top: -10px;
+">
+  Aspiring Full-Stack Engineer crafting backends and elegant frontends
+</p>
+
+<br/>
+
+<!-- ANIMATED TYPING BANNER -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2600&pause=900&color=006989&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Focused+on+Scalable+and+Secure+Applications"
+    alt="Typing Animation"
+    style="margin-top: 10px;"
+  />
+</p>
+
+<!-- GLASS HERO IMAGE -->
+<p align="center">
+  <img 
+    width="850"
+    src="https://raw.githubusercontent.com/AdityaKushwaha404/AdityaKushwaha404/main/assets/hero-minimal.png"
+    style="
+      border-radius: 22px;
+      backdrop-filter: blur(14px);
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.18);
+      padding: 6px;
+      opacity: 0.96;
+      margin-top: 10px;
+    "
+  />
+</p>
+
 About Me
 <div align="center"> <div style=" max-width: 850px; padding: 25px; background: rgba(255,255,255,0.10); border-radius: 18px; backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.15); "> Aspiring full-stack developer skilled in building scalable, secure, and user-centered web applications. Strong expertise in React.js, Next.js, Tailwind CSS, and modern UI/UX principles, focused on delivering clean, responsive, and accessible interfaces aligned with WCAG and usability best practices. Experienced in backend development using Node.js, Express.js, FastAPI, and database systems, with a solid understanding of object-oriented design, software development practices, and cloud integrations.
 

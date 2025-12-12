@@ -9,7 +9,7 @@
 
 <!-- SUBTITLE -->
 <p align="center" style="
-  font-size: 20px;
+  font-size: 15px;
   color: #444;
   margin-top: -10px;
 ">

@@ -1,7 +1,7 @@
 <!-- NAME -->
 <h1 align="center" style="
-  font-size: 46px;
-  font-weight: 700;
+  font-size: 56px;
+  font-weight: 800;
   margin-bottom: 4px;
 ">
   Hi, I’m Aditya Kushwaha
@@ -21,7 +21,7 @@
 <!-- ANIMATED TYPING BANNER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2600&pause=900&color=006989&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Focused+on+Scalable+and+Secure+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&color=006989&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Focused+on+Scalable+and+Secure+Applications"
     alt="Typing Animation"
     style="margin-top: 10px;"
   />
